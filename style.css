@@ -40,9 +40,13 @@ body {
     font-size: 2rem;
 }
 
-.header > #visitors {
+.header > #visitor-counter {
     font-size: 1.2rem;    
 }
+
+/* .header > #visitors {
+    font-size: 1.2rem;    
+} */
 
 .header > #visitors::after {
     
